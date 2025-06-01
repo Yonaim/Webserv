@@ -1,5 +1,7 @@
 # webserv
 
+![screenshot](/screenshot.png)
+
 **webserv** is an asynchronous HTTP/1.1 web server implemented in C++98, developed as part of the 42Seoul curriculum. The project benchmarks certain features and configuration styles of Nginx, but all core functionality is implemented from scratch. It covers socket programming, I/O multiplexing, HTTP request parsing, CGI handling, and more.
 
 ---
