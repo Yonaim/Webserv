@@ -87,7 +87,7 @@ server {
 
 ## Development Period
 
-* November 22, 2022 – January 18, 2023
+* May 2023 – June 2023
 
 ---
 
